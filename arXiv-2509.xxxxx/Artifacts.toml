@@ -1,0 +1,6 @@
+[BlackHawk]
+git-tree-sha1 = "80511176a03378517e15b705713256f686ce9016"
+
+    [[BlackHawk.download]]
+    url = "https://blackhawk.hepforge.org/downloader?f=blackhawk_v2.3.tar.bz2"
+    sha256 = "dd148349304c158ed3509ea6935f2fd3d60ebe7cda4c34598aa99ea329c129a7"

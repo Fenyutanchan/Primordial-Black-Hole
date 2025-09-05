@@ -17,7 +17,7 @@ For citation, I suggest the database [INSPIRE-HEP](https://inspirehep.net) to ge
 
 ## Issues
 
-Any issues, suggestions, or questions are welcome via the GitHub [Issues]().
+Any issues, suggestions, or questions are welcome via the GitHub [Issues](https://github.com/Fenyutanchan/Primordial-Black-Hole/issues).
 
 ## License
 
