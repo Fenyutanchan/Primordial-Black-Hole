@@ -4,9 +4,9 @@ This repository collects code, scripts, and notebooks used in my research on pri
 
 ## Contents
 
-- `arXiv-<arXiv id>/` — Paper-specific materials for the manuscript with arXiv id.
-- `LICENSE` — License for the repository.
-- `README.md` — This file.
+- `arXiv-<arXiv id>/`: Paper-specific materials for the manuscript with arXiv id.
+- [`LICENSE`](./LICENSE): License for the repository.
+- [`README.md`](./README.md): This file.
 
 If you'd like to reproduce results or reuse code, start by checking inside the relevant `arXiv-*` subfolder.
 
