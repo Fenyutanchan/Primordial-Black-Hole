@@ -1,4 +1,4 @@
-# Code Repository for [arXiv:2509.xxxxx](https://arxiv.org/abs/2509.xxxxx)
+# Code Repository for [arXiv:2509.05618](https://arxiv.org/abs/2509.05618)
 
 ## Preliminaries
 
@@ -33,7 +33,7 @@ We provide a script [`tool_script-environment_initialization.jl`](./tool_script-
 - `./tool_script-*.jl`: These are some useful scripts, _e.g._, to initialize the environment, to invoke `BlackHawk`, to define some useful functions, etc.
     Please refer to their contents for details.
 
-- [`main.ipynb`](./main.ipynb): The main notebook to reproduce the results and some figures (Fig. 1, 3, 4, and **5**) in our paper [arXiv:2509.xxxxx](https://arxiv.org/abs/2509.xxxxx), where Fig. 5 is our main result:
+- [`main.ipynb`](./main.ipynb): The main notebook to reproduce the results and some figures (Fig. 1, 3, 4, and **5**) in our paper [arXiv:2509.05618](https://arxiv.org/abs/2509.05618), where Fig. 5 is our main result:
     ![Fig. 5 in arXiv:xxxxx](./plots/Y_P.png)
 
 - [`main-scan.jl`](./main-scan.jl): In this script, we copy the relevant code from `main.ipynb` to perform a scan over the parameter space.
@@ -64,10 +64,10 @@ We provide a script [`tool_script-environment_initialization.jl`](./tool_script-
 
 - [`external_code/`](./external_code/): This directory is the working directory for the external code, where our code will download and compile the external code automatically.
 
-    - `BlackHawk_v2.3/`: This directory would be created automatically when you run the code in [`valid_meson_from_BlackHawk.ipynb`](./valid_meson_from_BlackHawk.ipynb).
+    - `BlackHawk_v2.3/`: This directory would be created automatically when you run the code in [`valid_mesons_from_BlackHawk.ipynb`](./valid_mesons_from_BlackHawk.ipynb).
     - [`BlackHawk_v2.3-hack/`](./external_code/BlackHawk_v2.3-hack/): To invoke `BlackHawk` in our code correctly, some modifications should be made to the original code, which are archived in this directory.
 
-- [`plots/`](./plots/): This directory contains some of figures that presented in our paper [arXiv:2509.xxxxx](https://arxiv.org/abs/2509.xxxxx).
+- [`plots/`](./plots/): This directory contains some of figures that presented in our paper [arXiv:2509.05618](https://arxiv.org/abs/2509.05618).
 
 ### Julia Environment Files
 - [`Artifacts.toml`](./Artifacts.toml): The TOML file for Julia artifacts.
