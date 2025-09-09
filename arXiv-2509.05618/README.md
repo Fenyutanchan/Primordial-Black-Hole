@@ -79,5 +79,13 @@ We provide a script [`tool_script-environment_initialization.jl`](./tool_script-
 ## Citation Information
 
 ```bibtex
-TBA...
+@article{Wu:2025ovd,
+    author = "Wu, Quan-feng and Xu, Xun-Jie",
+    title = "{Primordial Black Holes Evaporating before Big Bang Nucleosynthesis}",
+    eprint = "2509.05618",
+    archivePrefix = "arXiv",
+    primaryClass = "astro-ph.CO",
+    month = "9",
+    year = "2025"
+}
 ```
